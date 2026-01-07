@@ -5,8 +5,8 @@ theme: minima
 lang: ja
 timezone: Asia/Tokyo
 
-minima:
-  show_excerpts: true
+header_pages:
+  - about.md
 
 show_excerpts: true
 
