@@ -26,3 +26,5 @@ permalink: /about/
   **ゾウ🐘しか勝たん！！**
 
 ![ゾウの画像](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Elephant_near_ndutu.jpg/800px-Elephant_near_ndutu.jpg "ゾウって可愛いですよね。飼いたいです。")
+
+連絡はXのDMにお願いします！
