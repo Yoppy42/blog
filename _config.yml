@@ -6,7 +6,7 @@ lang: ja
 timezone: Asia/Tokyo
 
 header_pages:
-  - home.md
+  - index.md
   - about.md
 
 minima:
