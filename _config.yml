@@ -9,6 +9,8 @@ permalink: /posts/:year-:month-:day/:slug/
 
 POST_IMG_DIR: /assets/img/posts
 COMMON_IMG_DIR: /assets/img/common
+POST_MEDIA_DIR: /assets/media/posts
+COMMON_MEDIA_DIR: /assets/media/common
 
 header_pages:
   - index.md
