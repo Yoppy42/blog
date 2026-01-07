@@ -7,6 +7,9 @@ timezone: Asia/Tokyo
 
 permalink: /posts/:year-:month-:day/:slug/
 
+POST_IMG_DIR: /assets/img/posts
+COMMON_IMG_DIR: /assets/img/common
+
 header_pages:
   - index.md
   - about.md
