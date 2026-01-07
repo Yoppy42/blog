@@ -8,4 +8,7 @@ timezone: Asia/Tokyo
 minima:
   show_excerpts: true
 
+show_excerpts: true
+
+
 excerpt_separator: "<!--more-->"
