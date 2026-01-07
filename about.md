@@ -22,7 +22,7 @@ permalink: /about/
   高校生
 - 好きな食べ物  
   鶏の唐揚
-- 好きな動物
+- 好きな動物  
   **ゾウ🐘しか勝たん！！**
 
 ![ゾウの画像](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Elephant_near_ndutu.jpg/800px-Elephant_near_ndutu.jpg "ゾウって可愛いですよね。飼いたいです。")
