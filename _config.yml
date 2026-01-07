@@ -8,6 +8,12 @@ timezone: Asia/Tokyo
 header_pages:
   - about.md
 
+minima:
+  social_links:
+    - platform: instagram
+      user_url: https://www.instagram.com/mahamofumozoo/
+
+
 show_excerpts: true
 
 
