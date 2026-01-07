@@ -5,6 +5,8 @@ theme: minima
 lang: ja
 timezone: Asia/Tokyo
 
+permalink: /blog/:year-:month-:day/:slug/
+
 header_pages:
   - index.md
   - about.md
