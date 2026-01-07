@@ -1,6 +1,11 @@
 title: よっくんのブログ
-description: 技術・思想・日常を言語化するログ
+description: パソコンや可愛い犬
 theme: minima
 
 lang: ja
 timezone: Asia/Tokyo
+
+minima:
+  show_excerpts: true
+
+excerpt_separator: "<!--more-->"
